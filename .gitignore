@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/
+starter_data/
+reproducibility/
+.DS_Store
